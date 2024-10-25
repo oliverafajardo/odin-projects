@@ -1,0 +1,28 @@
+/* Add CSS Styling */
+
+/* these are two classes
+when classes are seperated by a space, it means two classes
+one class would use a dash 'avatar-proportioned' */
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
+
+
+/* .original {
+    width: 200px;
+    height: 200px;
+} 
+    this alters both bottom images 
+*/
+
+
+
+/* i changed the width and height of two of the images by 
+using classes. */
+

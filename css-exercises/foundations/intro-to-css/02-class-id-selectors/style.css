@@ -1,0 +1,14 @@
+
+/* this is a class, can be used on multiple elements */
+.background-red {
+    background-color: red;
+}
+
+/* unique IDs */
+#number-2 {
+    background-color: blue;
+}   
+
+#number-4 {
+    background-color: green;
+}       

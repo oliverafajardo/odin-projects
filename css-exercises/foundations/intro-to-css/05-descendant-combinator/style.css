@@ -1,0 +1,14 @@
+
+/* applying style to 2 classes even if on different element tags */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* we should use div as a way to contain certain elements feOffset
+our page. Then we can apply specific class on the containers to be 
+more precise with our styling. */
+
+/* the paragraph element is left unaltered. */
